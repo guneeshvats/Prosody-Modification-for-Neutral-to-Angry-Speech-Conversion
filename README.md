@@ -1,12 +1,12 @@
 # Prosody-Modification-for-Neutral-to-Angry-Speech-Conversion
 <h3>What are the files in this repository :</h3> <br>
-<ul>
-  <li>Phase_Vocode.ipynb file: Phase Vocoder code in python.</li>
-  <li>neutral1, angry_speech1: Sample input of neutral speech converted to teh angry speech. </li>
-  <li>How it works.png: It is a blok diagram of how the whole poject works.</li>
-  <li>Final_Report: It is the complete report for our project. </li>
-  <li>There are waveforms pngs also showing the changes observed in time domain. </li>
-</ul>
+
+- `Phase_Vocode.ipynb` file: Phase Vocoder code in python.
+- `neutral1`, `angry_speech1`: Sample input of neutral speech converted to teh angry speech.
+- `works.png`: It is a block diagram of how the whole poject works.
+- `Final_Report`: It is the complete report for our project.
+- There are waveforms pngs also showing the changes observed in time domain.
+
 
 Transforming neutral speech into an angry-sounding version. By leveraging signal processing techniques, we enhance the pitch and intensity characteristics typically associated with angry speech.
 <br><br>
