@@ -16,7 +16,7 @@ A project to transform neutral speech into an angry-sounding version using proso
 
 ## 🔧 How It Works
 
-<img src="https://github.com/guneeshvats/Prosody-Modification-for-Neutral-to-Angry-Speech-Conversion/assets/70188630/4f3457dc-d82b-4dca-898f-4e7ac8a6d4b8" alt="How it works" width="400"/>
+<img src="https://github.com/guneeshvats/Prosody-Modification-for-Neutral-to-Angry-Speech-Conversion/assets/70188630/4f3457dc-d82b-4dca-898f-4e7ac8a6d4b8" alt="How it works" width="500"/>
 
 Our approach involves:
 
