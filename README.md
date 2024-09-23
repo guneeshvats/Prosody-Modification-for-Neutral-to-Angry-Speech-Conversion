@@ -41,11 +41,19 @@ The phase vocoder operates on smaller subframes, utilizing a Hanning window to m
 
 ## 📁 Folder Structure
 
+```bash
+Prosody-Modification-for-Neutral-to-Angry-Speech-Conversion/
+│
+├── Phase_Vocode.ipynb         # Phase Vocoder implementation in Python
+├── Final_Report.pdf           # Complete project report
+├── works.png                  # Block diagram of the workflow
+├── neutral1.wav               # Sample neutral speech file
+├── angry_speech1.wav          # Sample angry speech file
+├── waveforms/                 # Directory containing waveform PNGs
+│   ├── waveform1.png
+│   └── waveform2.png
+└── README.md                  # Project overview and documentation
 ```
-Prosody-Modification-for-Neutral-to-Angry-Speech-Conversion/ │ ├── Phase_Vocode.ipynb # Phase Vocoder implementation in Python ├── Final_Report.pdf # Complete project report ├── works.png # Block diagram of the workflow ├── neutral1.wav # Sample neutral speech file ├── angry_speech1.wav # Sample angry speech file ├── waveforms/ # Directory containing waveform PNGs │ ├── waveform1.png │ └── waveform2.png └── README.md # Project overview and documentation
-
-```
-
 ---
 
 This repository provides a hands-on Python implementation to explore prosody modification in speech signal processing.
